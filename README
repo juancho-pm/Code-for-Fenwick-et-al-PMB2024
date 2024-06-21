@@ -1,0 +1,12 @@
+CODE for the publication "Collection efficiencies of cylindrical and plane parallel ionization chambers including free electron effects: 
+Analytical versus numerical results and implications for experimental determination of recombination corrections"
+
+JD Fenwick, S Kumar, J Pardo-Montero
+
+Physics in Medicine and Biology 2024
+
+
+This repository contains two functions written in MATLAB R2022b
+
+rec_pp.m : code for the simulation of the transport of charge carriers in a parallel-plate chamber
+rec_cyl.m : code for the simulation of the transport of charge carriers in a cylindrical chamber
